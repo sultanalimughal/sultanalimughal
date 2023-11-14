@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Sultan Ali from Islamabad, Pakistan<br><br>- <br>- 📚 I'm currently learning React JS <br>- ⚡ In my free time I Learn Tools and Play Games </p>
+<p align="left">I'm Sultan Ali from Islamabad, Pakistan<br><br>- 📚 I'm currently learning React JS <br>- ⚡ In my free time I Learn Tools and Play Games </p>
 
 ###
 
