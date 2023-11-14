@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Sultan Ali from Islamabad, Pakistan<br><br>- <br>- 📚 I'm currently learning React JS <br>- ⚡ In my free time I Learn Tools and Play Games </p>
 
 ###
 
